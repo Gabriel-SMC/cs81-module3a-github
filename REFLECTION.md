@@ -1,4 +1,7 @@
 Git is a terminal-like tool that can push and pull files into GitHub, while GitHub itself acts as a hub for files to hold and share files with others. What I learned is how conmplicated Git is and steps I had to take in order for the files to get into GitHub.
+
 The most confusing and frustrating part of using Git is how strict it is with commands. Every time I would try to create a file or push them into GitHub, I was greeted with error messages and would have to redo the whole process in order get what I need done.
+
 Developers use Git as a direct way to transfer files to GitHub and downloading them to make any changes within the files themselves. They also use it to interact with the terminal and troubleshoot any possible issues regarding the program.
+
 I think this can be useful with large projects with Git being the way to create files and work with other programs like Visual Studio Code so they can work at their best. With the files being shared through GitHub, it will allow other individuals within the project to download and make any necessary changes to prevent possible errors.
